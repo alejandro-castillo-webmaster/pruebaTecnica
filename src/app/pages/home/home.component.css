@@ -1,0 +1,33 @@
+.containerHome {
+    border-radius: 26px 26px 26px 26px;
+    -webkit-border-radius: 26px 26px 26px 26px;
+    -moz-border-radius: 26px 26px 26px 26px;
+    border: 1px solid #2e344d;
+}
+
+.buttonDesign {
+    Border-radius: 26px;
+    background-color: #2E344D;
+    color: #fff;
+}
+
+.cardsElements {
+    background-color: #F5F7FB;
+    border-radius: 26px 26px 26px 26px;
+    -webkit-border-radius: 26px 26px 26px 26px;
+    -moz-border-radius: 26px 26px 26px 26px;
+}
+
+.strongColor {
+    color: #2E344D;
+}
+
+.colorText {
+    color: #2E344D;
+}
+
+.hrDesign {
+    width: 96%;
+    text-align: left;
+    margin-left: 15px;
+}
